@@ -6,7 +6,7 @@ body{padding:0;
 }
 @media all and (min-width:1px) {
 	body{
-		background:url(_intef_header.png)
+		background:url(_intef_bg.png)
 	}
 }
 #lbOverlay{background:#f3f3f3}
