@@ -1,12 +1,12 @@
 html,body{min-height:100%}
-html{background:#000 url(_intef_bg.png) repeat 0 -2px}
+html{background:#FFF url(_intef_bg.png) repeat 0 -2px}
 body{padding:0;
 	text-align:center;
 	background:url(_intef_header.png) no-repeat 50% 0
 }
 @media all and (min-width:1px) {
 	body{
-		background:url(_intef_header.png) 50% 0 no-repeat,url(_intef_footer.png) center bottom no-repeat
+		background:#3a4749
 	}
 }
 #lbOverlay{background:#f3f3f3}
