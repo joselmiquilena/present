@@ -6,7 +6,7 @@ body{padding:0;
 }
 @media all and (min-width:1px) {
 	body{
-		background:url(https://raw.githubusercontent.com/joselmiquilena/present/main/_intef_bg.png)
+		background:url("https://raw.githubusercontent.com/joselmiquilena/present/main/_intef_header.png")
 	}
 }
 #lbOverlay{background:#f3f3f3}
